@@ -1,4 +1,7 @@
+body {
+  background-color: grey;
+}
+
 .game-container {
-  background-color: blue;
   cursor: pointer;
 }
