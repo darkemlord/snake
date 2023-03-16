@@ -1,3 +1,5 @@
-// const hello: string = "hello";
+const hello = (): string => {
+  return "hello";
+};
 
-// console.log(hello);
+console.log(hello());

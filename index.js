@@ -1,2 +1,4 @@
-var hello = "hello";
-console.log(hello);
+const hello = function () {
+  return "hello";
+};
+console.log(hello());
